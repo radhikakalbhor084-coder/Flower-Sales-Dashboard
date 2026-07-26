@@ -30,3 +30,5 @@ Dataset used
 -Finally, the dashboard was formatted and tested to provide clear insights into flower sales performance.
 
 ##Dashboard  
+
+<img width="983" height="547" alt="Screenshot 2026-06-29 212600" src="https://github.com/user-attachments/assets/25c592c7-f61a-4171-82ca-445947ada37a" />
