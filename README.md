@@ -44,4 +44,5 @@ Dataset used
 
 
 ##Conclusion
+
 The Flower Sales Dashboard converts raw sales data into meaningful business insights using Power BI. It helps analyse sales performance, flower demand, city-wise revenue, and farmer contributions through interactive visualisations. The dashboard enables users to make informed business decisions quickly and efficiently.
