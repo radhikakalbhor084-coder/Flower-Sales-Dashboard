@@ -32,3 +32,16 @@ Dataset used
 ##Dashboard  
 
 <img width="983" height="547" alt="Screenshot 2026-06-29 212600" src="https://github.com/user-attachments/assets/25c592c7-f61a-4171-82ca-445947ada37a" />
+
+## Project Insight
+
+* The dashboard provides a clear overview of flower sales performance through interactive visualisations.
+* City-wise analysis helps identify the locations generating the highest sales revenue.
+* Flower-wise analysis highlights the most popular flowers based on sales amount and quantity sold.
+* Farmer-wise analysis identifies the top-performing farmers and their contribution to total sales.
+* Interactive slicers allow users to filter the dashboard by flower, city, and farmer for detailed analysis.
+* The dashboard supports better decision-making by presenting sales data in a simple and meaningful way.
+
+
+##Conclusion
+The Flower Sales Dashboard converts raw sales data into meaningful business insights using Power BI. It helps analyse sales performance, flower demand, city-wise revenue, and farmer contributions through interactive visualisations. The dashboard enables users to make informed business decisions quickly and efficiently.
