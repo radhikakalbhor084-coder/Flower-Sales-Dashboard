@@ -1,11 +1,11 @@
 # Flower-Sales-Dashboard ( Interactive Power BI dashboard using MS Excel ) 
-##Project Objective
+## Project Objective
 
 The objective of this project is to analyse flower sales data and build an interactive Power BI dashboard that helps monitor sales performance, flower demand, city-wise sales, farmer contributions, and overall business performance. The dashboard enables users to make data-driven decisions through clear visualisations and KPIs.
 Dataset used
 - <a href="https://github.com/radhikakalbhor084-coder/Flower-Sales-Dashboard/blob/main/Farmer_Names_English_Master_List.xlsx"> Dataset</a>
 
-##Questions (KPIs)
+## Questions (KPIs)
 
 -What is the total quantity of flowers sold?
 -What is the total sales amount generated?
@@ -22,7 +22,7 @@ Dataset used
  - Dashboard Intercation < a href ="https://github.com/radhikakalbhor084-coder/Flower-Sales-Dashboard/blob/main/Screenshot%202026-06-29%20212600.png">View Dashboard</a>
 
 
-##Process
+## Process
 
 -The flower sales data was collected and prepared in Microsoft Excel.
 -The dataset was cleaned and imported into Power BI, where data from three months was combined using Append Queries. 
@@ -43,6 +43,6 @@ Dataset used
 * The dashboard supports better decision-making by presenting sales data in a simple and meaningful way.
 
 
-##Conclusion
+## Conclusion
 
 The Flower Sales Dashboard converts raw sales data into meaningful business insights using Power BI. It helps analyse sales performance, flower demand, city-wise revenue, and farmer contributions through interactive visualisations. The dashboard enables users to make informed business decisions quickly and efficiently.
